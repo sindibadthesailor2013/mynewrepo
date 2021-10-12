@@ -2,7 +2,7 @@ coucou
 I'm playing with Git in isolation on my own machine, 
 and I find it difficult to maintain a mental model of all 
 my branches and commits. I know I can do a git log to see 
-the commit history from where I am, but is there a way to
+the commit history from where I am,  is there a way to
  see the entire branch topography, something like these ASCII 
  maps that seem to be used everywhere for explaining branches?
 
